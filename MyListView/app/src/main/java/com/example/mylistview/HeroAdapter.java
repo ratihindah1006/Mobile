@@ -5,10 +5,11 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
-import android.widget.ImageView;
 import android.widget.TextView;
 
 import java.util.ArrayList;
+
+import de.hdodenhof.circleimageview.CircleImageView;
 
 public class HeroAdapter extends BaseAdapter {
     private Context context;
@@ -53,7 +54,7 @@ public class HeroAdapter extends BaseAdapter {
     private class ViewHolder {
         private TextView txtName;
         private TextView txtDescription;
-        private ImageView imgPhoto;
+        private CircleImageView imgPhoto;
 
         ViewHolder(View view) {
             txtName = view.findViewById(R.id.txt_name);

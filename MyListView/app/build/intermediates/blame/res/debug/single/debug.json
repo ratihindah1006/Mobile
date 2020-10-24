@@ -52,12 +52,12 @@
         "source": "C:\\Users\\USER's\\Documents\\KULIAH\\SEMESTER 5\\MOBILE\\PRAKTIKUM\\MyListView\\app\\src\\main\\res\\drawable\\ki_hadjar_dewantara.png"
     },
     {
-        "merged": "C:\\Users\\USER's\\Documents\\KULIAH\\SEMESTER 5\\MOBILE\\PRAKTIKUM\\MyListView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\USER's\\Documents\\KULIAH\\SEMESTER 5\\MOBILE\\PRAKTIKUM\\MyListView\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\USER's\\Documents\\KULIAH\\SEMESTER 5\\MOBILE\\PRAKTIKUM\\MyListView\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_hero.xml.flat",
         "source": "C:\\Users\\USER's\\Documents\\KULIAH\\SEMESTER 5\\MOBILE\\PRAKTIKUM\\MyListView\\app\\src\\main\\res\\layout\\item_hero.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER's\\Documents\\KULIAH\\SEMESTER 5\\MOBILE\\PRAKTIKUM\\MyListView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\USER's\\Documents\\KULIAH\\SEMESTER 5\\MOBILE\\PRAKTIKUM\\MyListView\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\USER's\\Documents\\KULIAH\\SEMESTER 5\\MOBILE\\PRAKTIKUM\\MyListView\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sukarno.png.flat",
@@ -84,16 +84,16 @@
         "source": "C:\\Users\\USER's\\Documents\\KULIAH\\SEMESTER 5\\MOBILE\\PRAKTIKUM\\MyListView\\app\\src\\main\\res\\drawable\\sudirman.png"
     },
     {
+        "merged": "C:\\Users\\USER's\\Documents\\KULIAH\\SEMESTER 5\\MOBILE\\PRAKTIKUM\\MyListView\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mohammad_hatta.png.flat",
+        "source": "C:\\Users\\USER's\\Documents\\KULIAH\\SEMESTER 5\\MOBILE\\PRAKTIKUM\\MyListView\\app\\src\\main\\res\\drawable\\mohammad_hatta.png"
+    },
+    {
         "merged": "C:\\Users\\USER's\\Documents\\KULIAH\\SEMESTER 5\\MOBILE\\PRAKTIKUM\\MyListView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\USER's\\Documents\\KULIAH\\SEMESTER 5\\MOBILE\\PRAKTIKUM\\MyListView\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\USER's\\Documents\\KULIAH\\SEMESTER 5\\MOBILE\\PRAKTIKUM\\MyListView\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ahmad_dahlan.png.flat",
         "source": "C:\\Users\\USER's\\Documents\\KULIAH\\SEMESTER 5\\MOBILE\\PRAKTIKUM\\MyListView\\app\\src\\main\\res\\drawable\\ahmad_dahlan.png"
-    },
-    {
-        "merged": "C:\\Users\\USER's\\Documents\\KULIAH\\SEMESTER 5\\MOBILE\\PRAKTIKUM\\MyListView\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mohammad_hatta.png.flat",
-        "source": "C:\\Users\\USER's\\Documents\\KULIAH\\SEMESTER 5\\MOBILE\\PRAKTIKUM\\MyListView\\app\\src\\main\\res\\drawable\\mohammad_hatta.png"
     },
     {
         "merged": "C:\\Users\\USER's\\Documents\\KULIAH\\SEMESTER 5\\MOBILE\\PRAKTIKUM\\MyListView\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gatot_subroto.png.flat",
