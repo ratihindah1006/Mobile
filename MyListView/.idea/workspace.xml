@@ -1406,7 +1406,12 @@
       <change beforePath="$PROJECT_DIR$/../../MyIntentApp/gradlew.bat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MyIntentApp/local.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../MyIntentApp/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PRAKTIKUM/MyViewAndViews/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../PRAKTIKUM/MyViewAndViews/.gradle/6.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PRAKTIKUM/MyViewAndViews/.gradle/6.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../PRAKTIKUM/MyViewAndViews/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PRAKTIKUM/MyViewAndViews/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../PRAKTIKUM/MyViewAndViews/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PRAKTIKUM/MyViewAndViews/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PRAKTIKUM/MyViewAndViews/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PRAKTIKUM/MyViewAndViews/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PRAKTIKUM/MyViewAndViews/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PRAKTIKUM/MyViewAndViews/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PRAKTIKUM/MyViewAndViews/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1451,7 +1456,7 @@
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -1547,10 +1552,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="526" y="119" key="AndroidCreateResourceFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1602750939774" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1603427075960">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1603554557428">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603427075960" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603554557428" />
     <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1603422534581">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -1567,10 +1572,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603422534581" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1602813879454">
+    <state x="184" y="6" key="SettingsEditor" timestamp="1603554338705">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602813879454" />
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603554338705" />
     <state x="840" y="142" key="chooseDestDirectoryDialog" timestamp="1602750834716">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

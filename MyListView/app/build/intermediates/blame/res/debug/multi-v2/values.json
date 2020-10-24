@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\USER's\\Documents\\KULIAH\\SEMESTER 5\\MOBILE\\PRAKTIKUM\\MyListView\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\USER's\\Documents\\KULIAH\\SEMESTER 5\\MOBILE\\Mobile\\MyListView\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\USER's\\.gradle\\caches\\transforms-2\\files-2.1\\b6228680f3c3211f5b9cef0a91b1fd66\\jetified-circleimageview-3.0.2\\res\\values\\values.xml",
@@ -20,25 +20,6 @@
                         "endLines": "2830",
                         "endColumns": "24",
                         "endOffsets": "179972"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\USER's\\Documents\\KULIAH\\SEMESTER 5\\MOBILE\\PRAKTIKUM\\MyListView\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "18,5,31,1,3,2",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "584,185,6484,17,121,66",
-                        "endLines": "29,16,42,1,3,2",
-                        "endColumns": "19,19,12,47,60,53",
-                        "endOffsets": "6476,576,6961,60,177,115"
-                    },
-                    "to": {
-                        "startLines": "2,14,26,601,602,603",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "105,5991,6376,37462,37510,37571",
-                        "endLines": "13,25,37,601,602,603",
-                        "endColumns": "19,19,12,47,60,53",
-                        "endOffsets": "5986,6371,6842,37505,37566,37620"
                     }
                 },
                 {
@@ -80,7 +61,26 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\USER's\\Documents\\KULIAH\\SEMESTER 5\\MOBILE\\PRAKTIKUM\\MyListView\\app\\src\\main\\res\\values\\colors.xml",
+                    "source": "C:\\Users\\USER's\\Documents\\KULIAH\\SEMESTER 5\\MOBILE\\Mobile\\MyListView\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "18,5,31,1,3,2",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "584,185,6484,17,121,66",
+                        "endLines": "29,16,42,1,3,2",
+                        "endColumns": "19,19,12,47,60,53",
+                        "endOffsets": "6476,576,6961,60,177,115"
+                    },
+                    "to": {
+                        "startLines": "2,14,26,601,602,603",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "105,5991,6376,37462,37510,37571",
+                        "endLines": "13,25,37,601,602,603",
+                        "endColumns": "19,19,12,47,60,53",
+                        "endOffsets": "5986,6371,6842,37505,37566,37620"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\USER's\\Documents\\KULIAH\\SEMESTER 5\\MOBILE\\Mobile\\MyListView\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
                         "startLines": "4,2,3",
                         "startColumns": "4,4,4",
@@ -94,25 +94,6 @@
                         "startOffsets": "21026,21072,21119",
                         "endColumns": "45,46,50",
                         "endOffsets": "21067,21114,21165"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\USER's\\Documents\\KULIAH\\SEMESTER 5\\MOBILE\\PRAKTIKUM\\MyListView\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "7",
-                        "endColumns": "12",
-                        "endOffsets": "374"
-                    },
-                    "to": {
-                        "startLines": "611",
-                        "startColumns": "4",
-                        "startOffsets": "38191",
-                        "endLines": "616",
-                        "endColumns": "12",
-                        "endOffsets": "38505"
                     }
                 },
                 {
@@ -151,6 +132,25 @@
                         "endLines": "333,334,372,373,472,473,474,475,476,477,478,488,489,490,491,492,493,494,495,496,497,498,499,500,501,502,511,512,513,514,515,516,517,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,541,542,543,544,545,551,552,557,558,559,560,561,562,563,564,565,566,567,573,605,1954,1958,1959,1963,1964,2108,2109,2837,2931,2963,3000,3007",
                         "endColumns": "71,87,68,62,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,64,58,58,59,59,59,59,59,59,59,59,59,59,58,59,59,59,59,59,59,59,59,59,59,58,59,59,58,58,58,58,58,58,34,34,54,62,54,57,56,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24",
                         "endOffsets": "19973,20061,22587,22650,29438,29506,29578,29648,29709,29783,29856,30701,30762,30824,30888,30950,31011,31079,31179,31239,31305,31378,31447,31504,31556,31618,32143,32219,32284,32343,32402,32462,32522,32582,32642,32702,32762,32822,32882,32942,33002,33061,33121,33181,33241,33301,33361,33421,33481,33541,33601,33661,33720,33780,33840,33899,33958,34017,34076,34135,34194,34468,34503,34741,34804,34859,34917,34974,35024,35085,35142,35176,35211,35246,35591,37744,128747,128948,129058,129259,129388,140755,140822,180270,198496,200561,202321,202698"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\USER's\\Documents\\KULIAH\\SEMESTER 5\\MOBILE\\Mobile\\MyListView\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "374"
+                    },
+                    "to": {
+                        "startLines": "611",
+                        "startColumns": "4",
+                        "startOffsets": "38191",
+                        "endLines": "616",
+                        "endColumns": "12",
+                        "endOffsets": "38505"
                     }
                 }
             ]
